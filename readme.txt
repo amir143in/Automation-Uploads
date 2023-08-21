@@ -10,7 +10,8 @@ Este proyecto demuestra pruebas automatizadas utilizando Selenium WebDriver en u
 
 ## Configuración
 
-1. Clone o descargue este repositorio en su máquina local.
+1. Clone o descargue este repositorio en su máquina local
+	- El codigo de fuente esta subido en github https://github.com/amir143in/SeleniumAutomatizacionE2EOpcion1.git
 
 2. Instale Java JDK:
      - Descargue e instale Java JDK (8 o superior) si aún no está instalado. He usado jdk 11.
