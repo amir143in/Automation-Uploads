@@ -12,6 +12,7 @@ Este proyecto demuestra pruebas automatizadas utilizando Karate y Maven con Java
 ## Configuración
 
 1. Clone o descargue este repositorio en su máquina local.
+	- El codigo esta en github y puede clonar https://github.com/amir143in/KarateAPIOpcion3.git
 
 2. Instale Java JDK:
      - Descargue e instale Java JDK (8 o superior) si aún no está instalado. He usado jdk 11.
