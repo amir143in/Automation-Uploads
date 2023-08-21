@@ -1,0 +1,24 @@
+# Proyecto Maven de Automatización de APIS con Karate  - Hallazgos y Conclusiones
+
+## Metodología y Enfoque
+He usado concepto de BDD y lenguaje Gherkins para crear los scenarios de pruebas
+
+## Resultados de la ejecución de la prueba
+- Número total de features ejecutados 1
+- Número de pruebas superadas 5
+- Número de pruebas fallidas 0
+- Tiempo necesario para ejecutar la prueba 3357 ms
+
+
+## Información y mejoras
+- Siempre existe la posibilidad de mejorar los scripts de prueba de automatización siguiendo las mejores prácticas.
+
+
+## Conclusión
+- En general, la implementación exitosa de Karate dentro de nuestro proyecto Maven no solo mejoró la eficiencia de nuestro proceso de prueba, sino que también jugó un papel fundamental en el mantenimiento de la calidad y confiabilidad de nuestro software. Al aprovechar la automatización, estamos mejor equipados para entregar productos de alta calidad a nuestros usuarios mientras reducimos el riesgo de regresiones y defectos en nuestra base de código.
+
+
+## Pasos futuros
+- Mejorar aún más la cobertura de las pruebas
+- Refinar scripts de prueba o marcos
+- Exploración de la integración con canalizaciones de integración continua (CI)
